@@ -37,7 +37,7 @@ class menu_registro : AppCompatActivity() {
         // menu should be considered as top level destinations.
         appBarConfiguration = AppBarConfiguration(
             setOf(
-                R.id.nav_home, R.id.nav_gallery, R.id.nav_slideshow
+                R.id.nav_home, R.id.nav_gallery, R.id.nav_slideshow,R.id.nuevo_Caso_Fragment,R.id.logofFragment
             ), drawerLayout
         )
         setupActionBarWithNavController(navController, appBarConfiguration)

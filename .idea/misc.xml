@@ -5,9 +5,12 @@
       <map>
         <entry key="..\:/Users/DevKotlin/AndroidStudioProjects/Controldeequipos/app/src/main/res/layout/activity_main.xml" value="0.14764492753623187" />
         <entry key="..\:/Users/DevKotlin/AndroidStudioProjects/Controldeequipos/app/src/main/res/layout/activity_menu_registro.xml" value="0.25" />
+        <entry key="..\:/Users/DevKotlin/AndroidStudioProjects/Controldeequipos/app/src/main/res/layout/app_bar_menu_registro.xml" value="0.3162393162393162" />
         <entry key="..\:/Users/DevKotlin/AndroidStudioProjects/Controldeequipos/app/src/main/res/layout/content_menu_registro.xml" value="0.1" />
         <entry key="..\:/Users/DevKotlin/AndroidStudioProjects/Controldeequipos/app/src/main/res/layout/fragment_gallery.xml" value="0.1" />
         <entry key="..\:/Users/DevKotlin/AndroidStudioProjects/Controldeequipos/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/DevKotlin/AndroidStudioProjects/Controldeequipos/app/src/main/res/layout/fragment_logof.xml" value="0.15364583333333334" />
+        <entry key="..\:/Users/DevKotlin/AndroidStudioProjects/Controldeequipos/app/src/main/res/layout/fragment_nuevo__caso_.xml" value="0.2" />
         <entry key="..\:/Users/DevKotlin/AndroidStudioProjects/Controldeequipos/app/src/main/res/layout/fragment_slideshow.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/DevKotlin/AndroidStudioProjects/Controldeequipos/app/src/main/res/layout/nav_header_menu_registro.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/DevKotlin/AndroidStudioProjects/Controldeequipos/app/src/main/res/menu/activity_main_drawer.xml" value="0.33" />

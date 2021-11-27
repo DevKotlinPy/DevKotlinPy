@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Control de equipos</string>
+    <string name="app_name">Comprobante de equipos</string>
     <string name="title_activity_menu_registro">menu_registro</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
@@ -8,8 +8,11 @@
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
-    <string name="menu_home">Nuevo caso</string>
+    <string name="menu_home">Comprobante de recibo de equipo</string>
     <string name="menu_gallery">Historial</string>
     <string name="menu_slideshow">Cerrar caso</string>
+    <string name="titulo">Nuevo Caso</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="logoff">Usuario</string>
 
 </resources>
