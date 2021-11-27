@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "644011097349",
+    "project_id": "equipos-zamo",
+    "storage_bucket": "equipos-zamo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644011097349:android:447c545ddb75f93c69cb6c",
+        "android_client_info": {
+          "package_name": "com.iams.controldeequipos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644011097349-aq3j28181b9nql6ne33kkhk6pis62c44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwIy5PVnogN5yYE38SZrFWHRaW8jH-h_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644011097349-aq3j28181b9nql6ne33kkhk6pis62c44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
